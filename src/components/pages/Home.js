@@ -31,7 +31,7 @@ function Home() {
           variant="h2"
           gutterBottom
         >
-          Home Page
+          Home Page Test
         </Typography>
         <Typography
           style={{ color: "grey", fontFamily: "Roboto" }}
